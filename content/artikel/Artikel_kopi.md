@@ -3,7 +3,7 @@ judul: Kopi Desa Pucak Sari
 deskripsi: Desa ini sejak lama, terkenal sebagai penghasil kopi jenis robusta. Secara turun temurun, warga disini melanggengkan diri sebagai petani kopi. 
 tanggal: 10 Apr 2021
 penulis: Surya
-judul_gambar: asset/images/berita/36.jpg
+judul_gambar: kopi.jpg
 ---
 
 Desa Pucaksari, di Kecamatan Busungbiu, salah satu desa yang terletak diatas ketinggian sekitar 650 diatas permukaan laut (dpl). Desa ini sejak lama, terkenal sebagai penghasil kopi jenis robusta. Secara turun temurun, warga disini melanggengkan diri sebagai petani kopi. Sama halnya dengan desa-desa tetangganya seperti Desa Sepang, Desa Telaga dan sekitarnya. Standar kopi robusta mendapat nilai di atas rata-rata oleh Dinas Perkebunan Kabupaten Buleleng. Menurut sebuah penjual di sebuah Marketplace harga kopi robusta untuk ukuran 500gram dibanderol dengan harga Rp. 75.000an.
